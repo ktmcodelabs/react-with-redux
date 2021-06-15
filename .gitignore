@@ -10,6 +10,8 @@
 
 # production
 /build
+/src/*/shared
+/src/legacy
 
 # misc
 .DS_Store
