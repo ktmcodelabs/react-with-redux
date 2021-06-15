@@ -1,3 +1,5 @@
+# Implementing Redux with ReactJs
+
 Import dependencies
 ``` 
 npm i axios react-redux redux redux-thunk --save-dev 
